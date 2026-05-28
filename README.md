@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madan Subasakthivel</h1>
+<h1 align="center">Hi 👋, I'm Madan S S</h1>
 <h3 align="center">Aspiring Data Analyst | Power BI | Python | SQL | MBA Finance & Marketing</h3>
 
 <p align="center">
