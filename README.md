@@ -41,6 +41,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+### AI & Cloud
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TiDB](https://img.shields.io/badge/TiDB-DD0031?style=for-the-badge&logo=tidb&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
