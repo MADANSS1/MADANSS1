@@ -75,7 +75,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/madan-subasakthivel-42178a209/" target="_blank">
+  <a href="(https://www.linkedin.com/in/madan-s-s-42178a209/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:madansubasakthivel@gmail.com">
