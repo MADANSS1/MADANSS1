@@ -49,9 +49,11 @@
 |---|---------|-----------|-------------|
 | 1 | [📺 YouTube Data Harvesting & Warehousing](https://github.com/MADANSS1/Projectyoutubeharvestingandwarehousing_usingmysql_and_streamlite-) | Python, MySQL, Streamlit, YouTube API | End-to-end pipeline to harvest, store & visualize YouTube channel data |
 | 2 | [📱 PhonePe Pulse Data Visualization](https://github.com/MADANSS1/phonepe-pulse-data-visualization-and-exploration-tool-using-streamlit-and-plotly) | Python, Streamlit, Plotly | Interactive geo-visualization of India's digital payment trends |
-| 3 | [🏠 Airbnb Data Analysis](https://github.com/MADANSS1/airbnb_anlysis) | Python, Pandas, Matplotlib, Seaborn | EDA on Airbnb listings to uncover pricing & availability patterns |
+| 3 | [🏠 Airbnb Data Analysis](https://github.com/MADANSS1/Airbnb_Data_Analysis) | Python, Pandas, Matplotlib, Seaborn | EDA on Airbnb listings to uncover pricing & availability patterns |
 | 4 | [🏭 Industrial Copper Modeling](https://github.com/MADANSS1/Industrial_Copper_Modeling) | Python, Scikit-learn, ML | Regression & classification models for copper price & lead prediction |
-| 5 | [🇸🇬 Singapore Flat Resale Price Prediction](https://github.com/MADANSS1/singapore_flat_resale_price_prediction) | Python, Scikit-learn, Streamlit | ML model with Streamlit web app for HDB flat price estimation |
+| 5 | [🇸🇬 Singapore Flat Resale Prediction](https://github.com/MADANSS1/singapore_flat_resale_price_prediction) | Python, Scikit-learn, Streamlit | ML model with Streamlit web app for HDB flat price estimation |
+| 6 | [🗺️ Industrial HR Geo-Visualization](https://github.com/MADANSS1/Industrial-Human-Resource-Geo-Visualization) | Python, NLP, Plotly, Streamlit | India workforce distribution dashboard with geo-visualization |
+| 7 | [🤖 GUVI GPT Model — Live on Hugging Face](https://github.com/MADANSS1/Deployment-GUVI-GPT-Model-using-Hugging-Face) | GPT-2, Transformers, Streamlit, TiDB | Fine-tuned GPT-2 chatbot deployed live on Hugging Face Spaces 🚀 |
 
 ---
 
